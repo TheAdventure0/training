@@ -1,9 +1,6 @@
-first = 35
-input(first)
-second = 46
-input(second)
-third = 35
-input(third)
+first = input(35)
+second = input(46)
+third = input(35)
 
 if first == second == third:
     print(3)
