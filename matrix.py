@@ -1,8 +1,8 @@
 def get_matrix(n, m, value):
     matrix = []
-    for i in range(n):
+    for none in range(n):
         stroka = []
-        for i in range(m):
+        for none in range(m):
             stroka.append(value)
         matrix.append(stroka)
     return matrix
